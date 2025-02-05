@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Chris Woodgate. I am a computational materials scientist and theoretical physicist, currently an EPSRC Doctoral Prize Fellow and CoSeC Fellow in the School of Physics at the University of Bristol, UK. Here is a link to my [Bristol profile](https://research-information.bris.ac.uk/en/persons/christopher-d-woodgate). Prior to joining Bristol I was a PhD student and then a Research Fellow in the Department of Physics at the University of Warwick. I maintain a visiting affiliation to Warwick through my position as an Honorary Research Fellow. Here is a link to my [old Warwick homepage])(https://warwick.ac.uk/fac/sci/hetsys/people/studentscohort1/woodgate/).
+
+Most broadly, I am interested in the physics of materials for energy applications. My current research focuses on the physics of alloys and magnetic systems, including high-entropy alloys and rare-earth-free permanent magnets. I use computational modelling to help us better understand the physics of existing materials, to suggest routes by which their properties might be optimised for applications, and to propose new materials compositions with potentially desirable performance attributes. For more information about my research, teaching, and outreach, please check out my [personal website](https://chriswoodgate.github.io).
+
 <!--
 **ChrisWoodgate/ChrisWoodgate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
